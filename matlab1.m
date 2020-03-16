@@ -1,1 +1,2 @@
 xlabel('kai')
+ylabel('jing')
